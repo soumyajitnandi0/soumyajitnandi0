@@ -15,7 +15,7 @@ public class Soumyajit {
 
     String[][] projects = {
         {"Wheeelicious", "A food-tech startup enhancing street food experiences"},
-        {"Hope", "Health Optimization & Predictive Evaluation (AI-driven healthcare solutions)"}
+        {"Hope", "Health Optimization & Predictive Evaluation"}
     };
 
     String[] passions = {"🚀 Innovation", "💡 Startups", "📱 Scalable Mobile Applications"};
