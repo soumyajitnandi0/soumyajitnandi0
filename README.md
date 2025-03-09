@@ -5,25 +5,54 @@
 
 ---
 
-## 🎯 **Skills**
+## 🚀 A little more about me...
+
+```java
+public class Soumyajit {
+    String pronouns = "he/him";
+    String[] skills = {"Java", "Kotlin", "Android Studio", "React.js", "Node.js"};
+    String[] tools = {"Android Studio", "MongoDB", "Firebase", "GitHub"};
+
+    String[][] projects = {
+        {"Wheeelicious", "A food-tech startup enhancing street food experiences"},
+        {"Hope", "Health Optimization & Predictive Evaluation (AI-driven healthcare solutions)"}
+    };
+
+    String[] passions = {"🚀 Innovation", "💡 Startups", "📱 Scalable Mobile Applications"};
+
+    public void aboutMe() {
+        System.out.println("Android Developer | Frontend Enthusiast | Business & Startup Lover");
+        System.out.println("Leading innovative projects and crafting seamless user experiences!");
+    }
+}
+```
+
+---
+
+## 🎯 **Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,kotlin,nodejs,mongodb,firebase,androidstudio,git,github,vscode" />
 </p>
 
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=soumyajitnandi0&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajitnandi0&theme=black-ice&hide_border=true&stroke=0000&background=000000" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=soumyajitnandi0&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajitnandi0&theme=black-ice&hide_border=true&stroke=0000&background=000000" />
-    </td>
-  </tr>
-</table>
-
+## 📈 **GitHub Activity Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyajitnandi0&theme=react-dark" />
 </p>
@@ -32,17 +61,19 @@
 
 ## 🎉 **Profile Visitor Count**
 <p align="center">
-  <img src="https://count.getloli.com/get/@SoumyajitNandi?theme=rule34" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/soumyajitnandi0/count.svg" />
 </p>
-
-
-
-
 
 ---
 
+## 💬 **Inspirational Quote**
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🌐 **Connect With Me**
 <p align="center">
     <a href="https://www.linkedin.com/in/soumyajit-nandi-5298b4260/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -54,6 +85,3 @@
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
-
-
-
