@@ -31,7 +31,7 @@ public class Soumyajit {
 
 ## 🎯 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,kotlin,nodejs,mongodb,firebase,androidstudio,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,html,css,js,react,java,firebase,git,github,vscode" />
 </p>
 
 ---
