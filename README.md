@@ -38,16 +38,8 @@ public class Soumyajit {
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=soumyajitnandi0&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajitnandi0&theme=black-ice&hide_border=true&stroke=0000&background=000000" />
-      </td>
-    </tr>
-  </table>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=soumyajitnandi0&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000" />
 </p>
 
 ---
