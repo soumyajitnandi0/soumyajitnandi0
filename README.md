@@ -67,8 +67,8 @@ public class Soumyajit {
 
 ## 📊 **GitHub & LeetCode Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumyajitnandi0&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000" />
-  <img src="https://leetcard.jacoblin.cool/soumyajitnandi0?theme=dark&font=Montserrat&ext=contest" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soumyajitnandi0&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&width=350" />
+  <img src="https://leetcard.jacoblin.cool/soumyajitnandi0?theme=dark&font=Montserrat&ext=contest&width=500" />
 </p>
 
 ---
