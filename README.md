@@ -1,27 +1,22 @@
 <!-- 🚀 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=700&height=50&lines=Hi+there%2C+I+am+Soumyajit+Nandi!;Android+Developer+%7C+Frontend+Beginner;Business+%26+Startup+Enthusiast;Crafting+New+Tech+Solutions;Welcome+to+My+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&random=false&width=800&height=60&lines=Hey%2C+I+am+Soumyajit+!;Passionate+App+Developer;Android+%7C+React+Native+%7C+Flutter;Full+Stack+Developer+%7C+MERN;Open+to+Opportunities+%F0%9F%9A%80;Let%27s+Build+Something+Amazing!" />
 </p>
 
 ---
 
-## 🚀 A little more about me...
+## 🚀 **About Me**
 
 ```java
 public class Soumyajit {
     String pronouns = "he/him";
     String[] skills = {"Java", "Kotlin", "Android Studio", "React.js", "Node.js"};
     String[] tools = {"Android Studio", "MongoDB", "Firebase", "GitHub"};
-
-    String[][] projects = {
-        {"Wheeelicious", "A food-tech startup enhancing street food experiences"},
-        {"Hope", "Health Optimization & Predictive Evaluation"}
-    };
-
-    String[] passions = {"🚀 Innovation", "💡 Startups", "📱 Scalable Mobile Applications"};
-
+    
+    String[] passions = {"🚀 Innovation", "💡 Startups", "📱 Building Mobile Applications"};
+    
     public void aboutMe() {
-        System.out.println("Android Developer | Frontend Enthusiast | Business & Startup Lover");
+        System.out.println("Android Developer | Business & Startup Enthusiast");
         System.out.println("Leading innovative projects and crafting seamless user experiences!");
     }
 }
@@ -30,30 +25,69 @@ public class Soumyajit {
 ---
 
 ## 🎯 **Tech Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,html,css,js,react,java,firebase,git,github,vscode" />
+
+### 📱 **Mobile Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,react,flutter,androidstudio" />
+</p>
+
+### 🌐 **FullStack Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,tailwind,mongodb" />
+</p>
+
+### 🛠️ **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 **GitHub Stats**
+## 📱 **Android Development Skills**
+
+- **Languages**: Kotlin, Java
+- **Cross-Platform**: React Native, Flutter (Dart)
+- **UI/UX**: Material Design, Custom Views, Animations, Tailwind CSS
+- **Architecture**: MVVM, MVP, Clean Architecture
+- **Libraries**: Retrofit, Room, Dagger/Hilt, Jetpack Compose
+- **Build Tools**: Gradle, Android Studio
+- **Version Control**: Git, GitHub
+
+---
+
+## 🌐 **Web Development Skills**
+
+- **Frontend**: React.js, JavaScript, HTML5, CSS3, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Full Stack**: MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- **Tools**: VS Code, Firebase, Git
+
+---
+
+## 📊 **GitHub & LeetCode Stats**
 <p align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=soumyajitnandi0&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000" />
+  <img src="https://leetcard.jacoblin.cool/soumyajitnandi0?theme=dark&font=Montserrat&ext=contest" />
 </p>
 
 ---
 
-## 📈 **GitHub Activity Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyajitnandi0&theme=react-dark" />
-</p>
+## 📈 **GitHub Activity & Languages**
+<table align="center">
+<tr>
+<td><img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyajitnandi0&theme=react-dark&bg_color=000000&hide_border=true" height="300"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajitnandi0&layout=compact&theme=react-dark&hide_border=true&bg_color=000000" height="300"/></td>
+</tr>
+</table>
+
+
 
 ---
 
-## 🎉 **Profile Visitor Count**
+## 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://profile-counter.glitch.me/soumyajitnandi0/count.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=soumyajitnandi0&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -76,4 +110,25 @@ public class Soumyajit {
     <a href="mailto:soumyajitnandi7384@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
+    <a href="https://github.com/soumyajitnandi0" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
 </p>
+
+---
+
+## 📱 **Let's Build Something Amazing Together!**
+
+I'm passionate about creating innovative Android applications that solve real-world problems. Whether you have an idea for a mobile app or want to collaborate on exciting projects, feel free to reach out!
+
+**Currently available for:**
+- 🚀 **Freelance Android Development**
+- 💡 **Startup App Development**
+- 🤝 **Open Source Contributions**
+- 📚 **Technical Mentoring**
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=soumyajitnandi0&style=flat-square&color=blue" alt="Profile Views" />
+</div>
